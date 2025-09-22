@@ -23,4 +23,4 @@ O projeto utiliza conceitos de **Programação Orientada a Objetos (POO)**, sepa
 ## ⚙️ Como executar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/sistema-rh.git
+   git clone https://github.com/MatheusNeckel/Sistema-RH.git
